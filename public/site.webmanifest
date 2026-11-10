@@ -1,7 +1,9 @@
 {
-  "name": "NotZack — Official Profile, Gaming Roster & QRIS Hub",
+  "name": "NotZack — Official Profile, Gaming & QRIS Hub",
   "short_name": "NotZack",
-  "description": "Pusat profil resmi NotZack untuk jejaring sosial media, identitas akun game utama (Minecraft, Roblox, Valorant), pembayaran QRIS resmi, dan pemutar musik.",
+  "description": "Muhammad Zaki Khairullah (akrab dipanggil Zack, atau NotZack) adalah seorang pemuda berusia 17 tahun asal Cirebon, yang saat ini tengah menempuh pendidikan melalui jalur kesetaraan Paket C.
+Sebagai kreator muda yang produktif, Zaki mengelola berbagai proyek digital di bawah branding NotZack Official dan Alya Ai. Ia memiliki keahlian teknis yang kuat di bidang pemrograman, khususnya dalam membangun bot otomasi WhatsApp menggunakan JavaScript, Node.js, dan Baileys, serta terbiasa mengelola server dan hosting aplikasi berbasis Linux via WSL, Termius, dan Pterodactyl Panel.
+Selain dunia coding, Zaki juga aktif mengasah kemampuan analisis finansial melalui trading komoditas XAU/USD dengan pendekatan Smart Money Concepts (SMC) serta pembuatan indikator kustom menggunakan Pine Script v5. Di luar produktivitas teknisnya, ia menikmati seni meracik espresso menggunakan mesin kopi semiprofesional Klaz, menerapkan disiplin tinggi pada manajemen keuangan multi-bank (BCA, Jago, SeaBank) serta rutinitas skincare harian, dan gemar mendengarkan musik indie pop Indonesia.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#030b10",
