@@ -1,0 +1,33 @@
+{
+  "name": "NotZack — Official Profile, Gaming Roster & QRIS Hub",
+  "short_name": "NotZack",
+  "description": "Pusat profil resmi NotZack untuk jejaring sosial media, identitas akun game utama (Minecraft, Roblox, Valorant), pembayaran QRIS resmi, dan pemutar musik.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030b10",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favico.jpg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    }
+  ]
+}

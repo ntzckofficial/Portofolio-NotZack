@@ -1,0 +1,6 @@
+{
+  "name": "Portofolio NotZack",
+  "description": "Professional cyan glossy personal profile hub featuring social networks, gaming identities, dual QRIS payment gateway utilities, and an orientation-synced top-left music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
