@@ -119,7 +119,7 @@ export const SITE_SETTINGS: SiteSettings = {
     {
       id: 'discord',
       name: 'Discord',
-      handle: 'notzack.gg',
+      handle: 'discord.gg',
       roleOrNote: 'Server Komunitas & Voice Mabar',
       url: 'https://discord.gg/U5zMcab6jt',
       icon: 'fa-brands fa-discord',
@@ -155,7 +155,7 @@ export const SITE_SETTINGS: SiteSettings = {
     {
       id: 'wa-bisnis',
       name: 'WA Bisnis',
-      handle: '+62 812-3456-7890',
+      handle: 'wa.me/ntzck',
       roleOrNote: 'Layanan Order & Konfirmasi Bukti Transfer',
       url: 'https://wa.me/6282117694586',
       icon: 'fa-brands fa-whatsapp',
